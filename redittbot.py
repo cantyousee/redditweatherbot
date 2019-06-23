@@ -3,8 +3,8 @@ import requests
 import time
 
 reddit = praw.Reddit(
-    client_id = 'B2iJQ30b_kBhSw',
-    client_secret = 'Pg3DcDLxZi_M_IoQAuO5wFnD0AI',
+    client_id = 'clientid',
+    client_secret = 'clientsecret',
     username = 'cricket_wc_bot',
     password = '1ndiawins123',
     user_agent = 'cricket wc weather bot by /u/himanscience'
